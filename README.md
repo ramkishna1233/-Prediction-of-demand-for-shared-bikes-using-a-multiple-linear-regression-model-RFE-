@@ -18,3 +18,10 @@ Based on various meteorological surveys and people's styles, the service provide
 
 Business Goal:
 You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
+
+CONCLUSION:From the analysis based on the ipynb file we can conclude as below:
+We can see the demand for bikes depends mainly on below variables:Year,holiday,temp,spring,summer,winter,Jul,Sep,Mist
+Demand increases for year,temp,summer,winter,sep
+Demand decreases if it is holiday,spring,Jul,Mist
+Final recommendations for the company:
+year,temp,summer,winter,sep
